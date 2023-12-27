@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "YZBlog"
+name: "howard blog"
 # Short bio or description (displayed in the header) 
 description: "Bachelor：Zhejiang University of S&T"
 
@@ -39,7 +39,7 @@ footer-links:
   email: zjuoffical@gmail.com
   facebook:
   flickr:
-  github: Youshikawa
+  github: howard blog
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -60,7 +60,7 @@ disqus: # fromendworld
 gitalk:
   # clientID: bd65d5c0df878155b7fa
   # clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: Youshikawa.github.io
+  repo: howard123333.github.io
   owner: Youshikawa
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -68,7 +68,7 @@ gitalk:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://youshikawa.github.io
+url: https://howard123333.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
